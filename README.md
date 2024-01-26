@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋<br>I'm Silica and I'm a web developer.</h2>
+<h2 align="left">Hi 👋<br>I'm Silica and I'm a Web Developer.</h2>
 
 ###
 
