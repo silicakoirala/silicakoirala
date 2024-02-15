@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">Eat. Code Repeat.</p>
+<p align="left">Coffee. Code Repeat.</p>
 
 ###
 
